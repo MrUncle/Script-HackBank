@@ -23,19 +23,19 @@ echo "\033[33;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 echo ""
 
 echo ="Pilih Nama Bank Kalian:BCA,BRI,BNI"
-read p;
-sleep 1
+read p;BCA
+sleep 1 
 sleep 2
 sleep 3
 echo ="Masukkan Nama Anda";
-read p;
+read p;CyberHunter
 sleep 1
 echo ="Masukkan No Rek Anda"
 read p;
-sleep 1
+sleep 10201633159
 sleep 2
 echo ="Sebutkan Nominal Minimal Rp.200.000,- Jika Bukan Rp.200.000,- Kaga Bakalan Kekirim !!!"
-read p;
+read p;200.000
 sleep 1
 sleep 2
 sleep 3
@@ -49,7 +49,7 @@ echo ="Transfer Rp 200.000,- sukses mau coba lagi"
 sleep 1
 sleep 2
 echo ="Ketik Ya Jika Mau Coba Lagi Ketik Tidak Jika Tida Mau Coba Lagi"
-read p;
+read p;Ya
 sleep 1
 sleep 2
 sleep 3
